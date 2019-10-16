@@ -25,12 +25,12 @@
   border-radius: 50%;
   height: 15px;
   width: 15px;
-  background: #ddd;
+  background: red;
   display: inline-block;
   animation:2s big forwards;
   position: absolute;
   z-index:0;
-  opacity: 0.8;
+  opacity: 0.5;
 }
 @keyframes big{
   0%{
